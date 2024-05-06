@@ -1,0 +1,14 @@
+C:\Users\Ismael\Documents\GitHub\_Senai\bin\Debug\net8.0\_Senai.exe
+C:\Users\Ismael\Documents\GitHub\_Senai\bin\Debug\net8.0\_Senai.deps.json
+C:\Users\Ismael\Documents\GitHub\_Senai\bin\Debug\net8.0\_Senai.runtimeconfig.json
+C:\Users\Ismael\Documents\GitHub\_Senai\bin\Debug\net8.0\_Senai.dll
+C:\Users\Ismael\Documents\GitHub\_Senai\bin\Debug\net8.0\_Senai.pdb
+C:\Users\Ismael\Documents\GitHub\_Senai\obj\Debug\net8.0\_Senai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ismael\Documents\GitHub\_Senai\obj\Debug\net8.0\_Senai.AssemblyInfoInputs.cache
+C:\Users\Ismael\Documents\GitHub\_Senai\obj\Debug\net8.0\_Senai.AssemblyInfo.cs
+C:\Users\Ismael\Documents\GitHub\_Senai\obj\Debug\net8.0\_Senai.csproj.CoreCompileInputs.cache
+C:\Users\Ismael\Documents\GitHub\_Senai\obj\Debug\net8.0\_Senai.dll
+C:\Users\Ismael\Documents\GitHub\_Senai\obj\Debug\net8.0\refint\_Senai.dll
+C:\Users\Ismael\Documents\GitHub\_Senai\obj\Debug\net8.0\_Senai.pdb
+C:\Users\Ismael\Documents\GitHub\_Senai\obj\Debug\net8.0\_Senai.genruntimeconfig.cache
+C:\Users\Ismael\Documents\GitHub\_Senai\obj\Debug\net8.0\ref\_Senai.dll
